@@ -55,4 +55,24 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2336-smallest-number-in-infinite-set) |
+## Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0572-subtree-of-another-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0572-subtree-of-another-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
