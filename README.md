@@ -30,6 +30,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0054-spiral-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0380-insert-delete-getrandom-o1) |
 | [2352-equal-row-and-column-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2352-equal-row-and-column-pairs) |
@@ -47,6 +48,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0054-spiral-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
@@ -99,6 +101,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0048-rotate-image) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
