@@ -44,6 +44,7 @@ Happy Coding! 🚀
 | [0036-valid-sudoku](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0076-minimum-window-substring) |
+| [0202-happy-number](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0380-insert-delete-getrandom-o1) |
 | [2336-smallest-number-in-infinite-set](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2352-equal-row-and-column-pairs) |
@@ -108,9 +109,14 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0380-insert-delete-getrandom-o1) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
