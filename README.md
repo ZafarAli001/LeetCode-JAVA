@@ -33,6 +33,7 @@ Happy Coding! 🚀
 | [0048-rotate-image](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0073-set-matrix-zeroes) |
+| [0219-contains-duplicate-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0289-game-of-life](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0380-insert-delete-getrandom-o1) |
 | [2352-equal-row-and-column-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2352-equal-row-and-column-pairs) |
@@ -45,6 +46,7 @@ Happy Coding! 🚀
 | [0073-set-matrix-zeroes](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0380-insert-delete-getrandom-o1) |
 | [2336-smallest-number-in-infinite-set](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2352-equal-row-and-column-pairs) |
@@ -105,6 +107,7 @@ Happy Coding! 🚀
 | [0003-longest-substring-without-repeating-characters](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
 | ------- |
