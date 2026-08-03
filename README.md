@@ -37,6 +37,7 @@ Happy Coding! 🚀
 | [0219-contains-duplicate-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0289-game-of-life](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0380-insert-delete-getrandom-o1) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [2352-equal-row-and-column-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2352-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@ Happy Coding! 🚀
 | [0202-happy-number](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0380-insert-delete-getrandom-o1) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [2336-smallest-number-in-infinite-set](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2352-equal-row-and-column-pairs) |
 ## Matrix
@@ -88,6 +90,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0572-subtree-of-another-tree) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 ## String Matching
 |  |
 | ------- |
