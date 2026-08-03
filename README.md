@@ -33,6 +33,7 @@ Happy Coding! 🚀
 | [0048-rotate-image](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0289-game-of-life](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -45,6 +46,7 @@ Happy Coding! 🚀
 | [0036-valid-sudoku](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -122,4 +124,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0202-happy-number) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
