@@ -100,6 +100,7 @@ Happy Coding! 🚀
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0076-minimum-window-substring) |
 | [0572-subtree-of-another-tree](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0572-subtree-of-another-tree) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -122,6 +123,7 @@ Happy Coding! 🚀
 | [0202-happy-number](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0380-insert-delete-getrandom-o1) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1814-count-nice-pairs-in-an-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Randomized
 |  |
 | ------- |
@@ -138,4 +140,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1814-count-nice-pairs-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
