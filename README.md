@@ -38,6 +38,7 @@ Happy Coding! 🚀
 | [0289-game-of-life](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0846-hand-of-straights](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0846-hand-of-straights) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2352-equal-row-and-column-pairs) |
@@ -54,6 +55,7 @@ Happy Coding! 🚀
 | [0219-contains-duplicate-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0846-hand-of-straights](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0846-hand-of-straights) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2336-smallest-number-in-infinite-set) |
@@ -146,9 +148,11 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0846-hand-of-straights](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0846-hand-of-straights) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
 | [0846-hand-of-straights](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0846-hand-of-straights) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 <!---LeetCode Topics End-->
