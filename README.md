@@ -37,6 +37,7 @@ Happy Coding! 🚀
 | [0219-contains-duplicate-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0289-game-of-life](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0648-replace-words](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0648-replace-words) |
 | [0846-hand-of-straights](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1743-restore-the-array-from-adjacent-pairs) |
@@ -54,6 +55,7 @@ Happy Coding! 🚀
 | [0202-happy-number](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0648-replace-words](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0648-replace-words) |
 | [0846-hand-of-straights](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1743-restore-the-array-from-adjacent-pairs) |
@@ -104,6 +106,7 @@ Happy Coding! 🚀
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0076-minimum-window-substring) |
 | [0572-subtree-of-another-tree](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0572-subtree-of-another-tree) |
+| [0648-replace-words](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0648-replace-words) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Tree
 |  |
@@ -160,4 +163,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0648-replace-words) |
 <!---LeetCode Topics End-->
