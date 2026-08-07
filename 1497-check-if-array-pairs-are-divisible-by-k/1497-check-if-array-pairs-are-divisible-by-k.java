@@ -30,8 +30,11 @@ class Solution {
             //  complement will be 3 
             else{
                 int complement = k - rem;
-
-                if(map.get(rem).intValue() != map.getOrDefault(complement, 0))
+                
+                //  instead of map.get(complement) we are using map.getOrDefault(complement, 0)
+                // if map.get(complement)  is not present then it will return which will make map.get(rem) != null
+                // so using map.getOrDefault(complement, 0) means get complement if not set 0
+                if(!map.get(rem).equals(map.getOrDefault(complement, 0)))
                 return false;
             }
         }
