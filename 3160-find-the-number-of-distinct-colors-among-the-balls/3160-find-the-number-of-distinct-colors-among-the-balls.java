@@ -1,44 +1,34 @@
 class Solution {
     public int[] queryResults(int limit, int[][] queries) {
-      
-      // ball and it's color <ball, color>
-      HashMap<Integer, Integer> ballToColor = new HashMap<>();  
-      //  color and it's count <color, count>
-      HashMap<Integer, Integer> colorCount = new HashMap<>();  
+        // <ball, color>
+        HashMap<Integer, Integer> ballColor = new HashMap<>();
+        // <color, count>
+        HashMap<Integer, Integer> colorCount = new HashMap<>();
 
-    int n = queries.length;
-    int[] answer = new int[n];
+        int[] result = new int[queries.length];
 
-    for(int i=0;i<n;i++){
+        for(int i =0;i<queries.length;i++){
+            int ball = queries[i][0];
+            int color = queries[i][1];
+            Integer oldColor = ballColor.get(ball);
 
-        int ball = queries[i][0];
-        int color = queries[i][1];
-
-            // Step 1 : If the ball already has a color,
-            // remove its contribution.
-            if (ballToColor.containsKey(ball)) {
-
-                int oldColor = ballToColor.get(ball);
-
-                // Decrease frequency of old color
-                colorCount.put(oldColor, colorCount.get(oldColor) - 1);
-
-                // If no ball has this color anymore,
-                // remove it from the map.
-                if (colorCount.get(oldColor) == 0) {
+            // if ball has previousColor remove from colorCount
+            if(oldColor != null){
+                Integer count = colorCount.get(oldColor);
+                if(count<=1){
                     colorCount.remove(oldColor);
+                }else{
+                    colorCount.put(oldColor, count -1 );
                 }
             }
 
-            // Step 2 : Assign the new color
-            ballToColor.put(ball, color);
+            // color new ball
+            ballColor.put(ball, color);
+            colorCount.put(color, colorCount.getOrDefault(color, 0)+1);
 
-            // Increase frequency of new color
-            colorCount.put(color, colorCount.getOrDefault(color, 0) + 1);
+            result[i] = colorCount.size();
+        }
 
-            // Step 3 : Number of distinct colors
-            answer[i] = colorCount.size();
-        } 
-        return answer;
+    return result;
     }
 }
