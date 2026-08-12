@@ -45,6 +45,7 @@ Happy Coding! 🚀
 | [1814-count-nice-pairs-in-an-array](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2352-equal-row-and-column-pairs) |
 | [2364-count-number-of-bad-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2364-count-number-of-bad-pairs) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@ Happy Coding! 🚀
 | [2336-smallest-number-in-infinite-set](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2352-equal-row-and-column-pairs) |
 | [2364-count-number-of-bad-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2364-count-number-of-bad-pairs) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 ## Matrix
 |  |
@@ -169,6 +171,7 @@ Happy Coding! 🚀
 | ------- |
 | [0846-hand-of-straights](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2780-minimum-index-of-a-valid-split](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2780-minimum-index-of-a-valid-split) |
 ## Enumeration
 |  |
 | ------- |
