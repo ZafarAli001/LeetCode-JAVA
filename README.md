@@ -69,6 +69,7 @@ Happy Coding! 🚀
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2336-smallest-number-in-infinite-set](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2352-equal-row-and-column-pairs) |
@@ -146,6 +147,7 @@ Happy Coding! 🚀
 | [0202-happy-number](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0380-insert-delete-getrandom-o1) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2364-count-number-of-bad-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2364-count-number-of-bad-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -166,6 +168,7 @@ Happy Coding! 🚀
 | ------- |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2364-count-number-of-bad-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2364-count-number-of-bad-pairs) |
 ## Greedy
@@ -184,6 +187,7 @@ Happy Coding! 🚀
 ## Enumeration
 |  |
 | ------- |
+| [2048-next-greater-numerically-balanced-number](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Trie
 |  |
@@ -201,4 +205,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0898-bitwise-ors-of-subarrays](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0898-bitwise-ors-of-subarrays) |
+## Backtracking
+|  |
+| ------- |
+| [2048-next-greater-numerically-balanced-number](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2048-next-greater-numerically-balanced-number) |
 <!---LeetCode Topics End-->
