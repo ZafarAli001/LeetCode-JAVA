@@ -50,6 +50,7 @@ Happy Coding! 🚀
 | [2364-count-number-of-bad-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2364-count-number-of-bad-pairs) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
+| [3531-count-covered-buildings](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3583-count-special-triplets) |
 ## Hash Table
 |  |
@@ -77,6 +78,7 @@ Happy Coding! 🚀
 | [2364-count-number-of-bad-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2364-count-number-of-bad-pairs) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
+| [3531-count-covered-buildings](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3583-count-special-triplets) |
 ## Matrix
 |  |
@@ -187,6 +189,7 @@ Happy Coding! 🚀
 | [0846-hand-of-straights](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2780-minimum-index-of-a-valid-split) |
+| [3531-count-covered-buildings](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3531-count-covered-buildings) |
 ## Enumeration
 |  |
 | ------- |
