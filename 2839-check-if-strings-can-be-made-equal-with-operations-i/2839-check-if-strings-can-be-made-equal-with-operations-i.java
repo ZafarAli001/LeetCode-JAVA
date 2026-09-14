@@ -12,7 +12,7 @@ class Solution {
             s1.charAt(1), s1.charAt(3),
             s2.charAt(1), s2.charAt(3)
         );
-        return group1 & group2;
+        return group1 && group2;
     }
     private boolean samePair(char ch1,char ch2,char ch3,char ch4){
 
