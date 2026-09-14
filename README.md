@@ -128,6 +128,7 @@ Happy Coding! 🚀
 | [0648-replace-words](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0648-replace-words) |
 | [0966-vowel-spellchecker](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0966-vowel-spellchecker) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Tree
 |  |
