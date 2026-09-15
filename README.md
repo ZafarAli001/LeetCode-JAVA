@@ -77,6 +77,7 @@ Happy Coding! 🚀
 | [2352-equal-row-and-column-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2352-equal-row-and-column-pairs) |
 | [2364-count-number-of-bad-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2364-count-number-of-bad-pairs) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2780-minimum-index-of-a-valid-split) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3531-count-covered-buildings](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3583-count-special-triplets) |
@@ -129,6 +130,7 @@ Happy Coding! 🚀
 | [0966-vowel-spellchecker](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0966-vowel-spellchecker) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Tree
 |  |
@@ -190,6 +192,7 @@ Happy Coding! 🚀
 | [0846-hand-of-straights](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2780-minimum-index-of-a-valid-split) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3531-count-covered-buildings](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3531-count-covered-buildings) |
 ## Enumeration
 |  |
