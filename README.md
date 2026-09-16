@@ -29,6 +29,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0054-spiral-matrix) |
@@ -232,4 +233,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
