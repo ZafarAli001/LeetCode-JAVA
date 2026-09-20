@@ -52,6 +52,7 @@ Happy Coding! 🚀
 | [2780-minimum-index-of-a-valid-split](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2780-minimum-index-of-a-valid-split) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3583-count-special-triplets) |
 ## Hash Table
@@ -82,6 +83,7 @@ Happy Coding! 🚀
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3583-count-special-triplets) |
 ## Matrix
@@ -101,6 +103,7 @@ Happy Coding! 🚀
 | [2352-equal-row-and-column-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2352-equal-row-and-column-pairs) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Design
 |  |
 | ------- |
@@ -111,11 +114,13 @@ Happy Coding! 🚀
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2336-smallest-number-in-infinite-set) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2336-smallest-number-in-infinite-set) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Tree
 |  |
 | ------- |
@@ -229,10 +234,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Binary Search
 |  |
 | ------- |
