@@ -56,6 +56,7 @@ Happy Coding! 🚀
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3583-count-special-triplets) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@ Happy Coding! 🚀
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3583-count-special-triplets) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Matrix
 |  |
 | ------- |
