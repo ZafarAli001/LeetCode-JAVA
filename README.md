@@ -52,6 +52,7 @@ Happy Coding! 🚀
 | [2780-minimum-index-of-a-valid-split](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
+| [3488-closest-equal-element-queries](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3531-count-covered-buildings) |
@@ -86,6 +87,7 @@ Happy Coding! 🚀
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
+| [3488-closest-equal-element-queries](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3531-count-covered-buildings) |
@@ -251,4 +253,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0035-search-insert-position) |
+| [3488-closest-equal-element-queries](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3488-closest-equal-element-queries) |
 <!---LeetCode Topics End-->
