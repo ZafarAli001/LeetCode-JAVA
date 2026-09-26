@@ -59,6 +59,7 @@ Happy Coding! 🚀
 | [3583-count-special-triplets](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3583-count-special-triplets) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@ Happy Coding! 🚀
 | [3583-count-special-triplets](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3583-count-special-triplets) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -181,6 +183,7 @@ Happy Coding! 🚀
 | [2364-count-number-of-bad-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2364-count-number-of-bad-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Randomized
 |  |
 | ------- |
