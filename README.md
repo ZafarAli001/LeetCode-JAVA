@@ -119,6 +119,7 @@ Happy Coding! 🚀
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0380-insert-delete-getrandom-o1) |
 | [2336-smallest-number-in-infinite-set](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2336-smallest-number-in-infinite-set) |
 ## Heap (Priority Queue)
@@ -261,4 +262,12 @@ Happy Coding! 🚀
 | ------- |
 | [0035-search-insert-position](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0035-search-insert-position) |
 | [3488-closest-equal-element-queries](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3488-closest-equal-element-queries) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
