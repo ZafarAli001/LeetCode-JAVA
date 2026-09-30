@@ -42,6 +42,7 @@ Happy Coding! 🚀
 | [0739-daily-temperatures](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0739-daily-temperatures) |
 | [0846-hand-of-straights](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0846-hand-of-straights) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0898-bitwise-ors-of-subarrays) |
+| [0957-prison-cells-after-n-days](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0957-prison-cells-after-n-days) |
 | [0966-vowel-spellchecker](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0966-vowel-spellchecker) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -75,6 +76,7 @@ Happy Coding! 🚀
 | [0380-insert-delete-getrandom-o1](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0648-replace-words](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0648-replace-words) |
 | [0846-hand-of-straights](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0846-hand-of-straights) |
+| [0957-prison-cells-after-n-days](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0957-prison-cells-after-n-days) |
 | [0966-vowel-spellchecker](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0966-vowel-spellchecker) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -182,6 +184,7 @@ Happy Coding! 🚀
 | [0202-happy-number](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0227-basic-calculator-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0957-prison-cells-after-n-days](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0957-prison-cells-after-n-days) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2364-count-number-of-bad-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2364-count-number-of-bad-pairs) |
@@ -246,6 +249,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0898-bitwise-ors-of-subarrays](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0898-bitwise-ors-of-subarrays) |
+| [0957-prison-cells-after-n-days](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0957-prison-cells-after-n-days) |
 ## Backtracking
 |  |
 | ------- |
@@ -279,4 +283,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0739-daily-temperatures) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0957-prison-cells-after-n-days](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0957-prison-cells-after-n-days) |
 <!---LeetCode Topics End-->
