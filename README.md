@@ -153,6 +153,7 @@ Happy Coding! 🚀
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0076-minimum-window-substring) |
 | [0227-basic-calculator-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0394-decode-string) |
 | [0572-subtree-of-another-tree](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0572-subtree-of-another-tree) |
 | [0648-replace-words](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0648-replace-words) |
 | [0966-vowel-spellchecker](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0966-vowel-spellchecker) |
@@ -277,6 +278,7 @@ Happy Coding! 🚀
 | [0227-basic-calculator-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0739-daily-temperatures) |
 ## Queue
 |  |
@@ -294,4 +296,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
