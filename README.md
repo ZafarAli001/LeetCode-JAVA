@@ -151,6 +151,7 @@ Happy Coding! 🚀
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0071-simplify-path](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0076-minimum-window-substring) |
 | [0227-basic-calculator-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0394-decode-string) |
@@ -275,6 +276,7 @@ Happy Coding! 🚀
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0071-simplify-path) |
 | [0227-basic-calculator-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0234-palindrome-linked-list) |
