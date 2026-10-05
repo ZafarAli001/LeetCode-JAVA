@@ -123,6 +123,7 @@ Happy Coding! 🚀
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0380-insert-delete-getrandom-o1) |
 | [2336-smallest-number-in-infinite-set](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2336-smallest-number-in-infinite-set) |
@@ -141,6 +142,7 @@ Happy Coding! 🚀
 ## Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0173-binary-search-tree-iterator) |
 | [0572-subtree-of-another-tree](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
@@ -168,6 +170,7 @@ Happy Coding! 🚀
 ## Binary Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0173-binary-search-tree-iterator) |
 | [0572-subtree-of-another-tree](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -278,6 +281,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0071-simplify-path) |
+| [0173-binary-search-tree-iterator](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0173-binary-search-tree-iterator) |
 | [0227-basic-calculator-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0234-palindrome-linked-list) |
@@ -300,4 +304,12 @@ Happy Coding! 🚀
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0394-decode-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
