@@ -80,6 +80,7 @@ Happy Coding! 🚀
 | [0957-prison-cells-after-n-days](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0957-prison-cells-after-n-days) |
 | [0966-vowel-spellchecker](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0966-vowel-spellchecker) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -161,6 +162,7 @@ Happy Coding! 🚀
 | [0572-subtree-of-another-tree](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0572-subtree-of-another-tree) |
 | [0648-replace-words](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0648-replace-words) |
 | [0966-vowel-spellchecker](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0966-vowel-spellchecker) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -257,6 +259,7 @@ Happy Coding! 🚀
 | ------- |
 | [0898-bitwise-ors-of-subarrays](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0957-prison-cells-after-n-days](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0957-prison-cells-after-n-days) |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Backtracking
 |  |
 | ------- |
@@ -312,4 +315,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0173-binary-search-tree-iterator) |
+## Prefix Sum
+|  |
+| ------- |
+| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 <!---LeetCode Topics End-->
