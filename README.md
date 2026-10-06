@@ -82,6 +82,7 @@ Happy Coding! 🚀
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2048-next-greater-numerically-balanced-number) |
@@ -164,6 +165,7 @@ Happy Coding! 🚀
 | [0648-replace-words](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0648-replace-words) |
 | [0966-vowel-spellchecker](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0966-vowel-spellchecker) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -218,6 +220,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -322,6 +325,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 ## Manacher
 |  |
 | ------- |
