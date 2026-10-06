@@ -154,6 +154,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0071-simplify-path](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0076-minimum-window-substring) |
@@ -206,6 +207,7 @@ Happy Coding! 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0202-happy-number](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0234-palindrome-linked-list) |
 ## Union-Find
@@ -253,6 +255,7 @@ Happy Coding! 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0898-bitwise-ors-of-subarrays) |
 ## Bit Manipulation
 |  |
@@ -319,4 +322,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
