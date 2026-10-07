@@ -125,6 +125,7 @@ Happy Coding! 🚀
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -290,6 +291,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0071-simplify-path) |
+| [0155-min-stack](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0173-binary-search-tree-iterator) |
 | [0227-basic-calculator-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0232-implement-queue-using-stacks) |
