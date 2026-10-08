@@ -44,6 +44,7 @@ Happy Coding! 🚀
 | [0898-bitwise-ors-of-subarrays](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0957-prison-cells-after-n-days](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0957-prison-cells-after-n-days) |
 | [0966-vowel-spellchecker](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0966-vowel-spellchecker) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1743-restore-the-array-from-adjacent-pairs) |
@@ -79,6 +80,7 @@ Happy Coding! 🚀
 | [0846-hand-of-straights](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0846-hand-of-straights) |
 | [0957-prison-cells-after-n-days](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0957-prison-cells-after-n-days) |
 | [0966-vowel-spellchecker](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0966-vowel-spellchecker) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -220,6 +222,7 @@ Happy Coding! 🚀
 ## Counting
 |  |
 | ------- |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1737-change-minimum-characters-to-satisfy-one-of-three-conditions) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1814-count-nice-pairs-in-an-array) |
