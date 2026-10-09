@@ -39,6 +39,7 @@ Happy Coding! 🚀
 | [0289-game-of-life](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0648-replace-words](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0648-replace-words) |
+| [0735-asteroid-collision](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0739-daily-temperatures) |
 | [0846-hand-of-straights](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0846-hand-of-straights) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0898-bitwise-ors-of-subarrays) |
@@ -120,6 +121,7 @@ Happy Coding! 🚀
 | ------- |
 | [0054-spiral-matrix](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0289-game-of-life) |
+| [0735-asteroid-collision](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2352-equal-row-and-column-pairs) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -300,6 +302,7 @@ Happy Coding! 🚀
 | [0232-implement-queue-using-stacks](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0394-decode-string) |
+| [0735-asteroid-collision](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0739-daily-temperatures) |
 ## Queue
 |  |
