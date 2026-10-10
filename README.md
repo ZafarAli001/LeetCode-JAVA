@@ -164,6 +164,7 @@ Happy Coding! 🚀
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0071-simplify-path](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0076-minimum-window-substring) |
+| [0224-basic-calculator](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0394-decode-string) |
 | [0572-subtree-of-another-tree](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0572-subtree-of-another-tree) |
@@ -198,6 +199,7 @@ Happy Coding! 🚀
 | ------- |
 | [0048-rotate-image](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0227-basic-calculator-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0957-prison-cells-after-n-days](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0957-prison-cells-after-n-days) |
@@ -298,6 +300,7 @@ Happy Coding! 🚀
 | [0071-simplify-path](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0234-palindrome-linked-list) |
@@ -319,6 +322,7 @@ Happy Coding! 🚀
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0394-decode-string) |
 ## Binary Search Tree
