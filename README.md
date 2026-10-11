@@ -48,6 +48,7 @@ Happy Coding! 🚀
 | [1128-number-of-equivalent-domino-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
@@ -123,6 +124,7 @@ Happy Coding! 🚀
 | [0054-spiral-matrix](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0735-asteroid-collision) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2352-equal-row-and-column-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2352-equal-row-and-column-pairs) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -310,11 +312,13 @@ Happy Coding! 🚀
 | [0394-decode-string](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0739-daily-temperatures) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
