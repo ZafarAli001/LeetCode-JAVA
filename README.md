@@ -54,6 +54,7 @@ Happy Coding! 🚀
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2352-equal-row-and-column-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2352-equal-row-and-column-pairs) |
 | [2364-count-number-of-bad-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2364-count-number-of-bad-pairs) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
@@ -254,6 +255,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2048-next-greater-numerically-balanced-number](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Trie
