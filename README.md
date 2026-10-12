@@ -38,6 +38,7 @@ Happy Coding! 🚀
 | [0219-contains-duplicate-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0289-game-of-life](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0622-design-circular-queue](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0622-design-circular-queue) |
 | [0648-replace-words](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0648-replace-words) |
 | [0735-asteroid-collision](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0739-daily-temperatures) |
@@ -136,6 +137,7 @@ Happy Coding! 🚀
 | [0173-binary-search-tree-iterator](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0622-design-circular-queue](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2336-smallest-number-in-infinite-set) |
 ## Heap (Priority Queue)
@@ -287,6 +289,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0234-palindrome-linked-list) |
+| [0622-design-circular-queue](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0622-design-circular-queue) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Doubly-Linked List
@@ -317,6 +320,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
