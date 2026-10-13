@@ -53,6 +53,7 @@ Happy Coding! 🚀
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2352-equal-row-and-column-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2352-equal-row-and-column-pairs) |
 | [2364-count-number-of-bad-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2364-count-number-of-bad-pairs) |
@@ -126,6 +127,7 @@ Happy Coding! 🚀
 | [0289-game-of-life](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0289-game-of-life) |
 | [0735-asteroid-collision](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0735-asteroid-collision) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2352-equal-row-and-column-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2352-equal-row-and-column-pairs) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -323,6 +325,7 @@ Happy Coding! 🚀
 | [0622-design-circular-queue](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Stack
 |  |
 | ------- |
