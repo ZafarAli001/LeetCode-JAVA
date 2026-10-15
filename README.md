@@ -59,6 +59,7 @@ Happy Coding! 🚀
 | [2364-count-number-of-bad-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2364-count-number-of-bad-pairs) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2780-minimum-index-of-a-valid-split) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3488-closest-equal-element-queries](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3488-closest-equal-element-queries) |
@@ -99,6 +100,7 @@ Happy Coding! 🚀
 | [2364-count-number-of-bad-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2364-count-number-of-bad-pairs) |
 | [2780-minimum-index-of-a-valid-split](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2780-minimum-index-of-a-valid-split) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -367,4 +369,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0102-binary-tree-level-order-traversal) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
