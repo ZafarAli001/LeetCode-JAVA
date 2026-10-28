@@ -46,6 +46,7 @@ Happy Coding! 🚀
 | [0898-bitwise-ors-of-subarrays](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0957-prison-cells-after-n-days](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0957-prison-cells-after-n-days) |
 | [0966-vowel-spellchecker](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0966-vowel-spellchecker) |
+| [0994-rotting-oranges](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0994-rotting-oranges) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -121,6 +122,7 @@ Happy Coding! 🚀
 | [0054-spiral-matrix](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0289-game-of-life) |
+| [0994-rotting-oranges](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0994-rotting-oranges) |
 | [2352-equal-row-and-column-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
@@ -372,6 +374,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0994-rotting-oranges](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0994-rotting-oranges) |
 ## Binary Indexed Tree
 |  |
 | ------- |
