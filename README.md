@@ -160,11 +160,13 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0110-balanced-binary-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0173-binary-search-tree-iterator) |
 | [0572-subtree-of-another-tree](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0110-balanced-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0572-subtree-of-another-tree) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 ## String Matching
@@ -193,6 +195,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0110-balanced-binary-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0173-binary-search-tree-iterator) |
 | [0572-subtree-of-another-tree](https://github.com/ZafarAli001/LeetCode-JAVA/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
